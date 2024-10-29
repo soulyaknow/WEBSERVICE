@@ -1,0 +1,7 @@
+Starting application normally...
+Server running on http://localhost:5123
+Broker Information JSON: {
+  recordId: 'recWjXbWQWdzU',
+  thirdPartyAggregator: 'AFG',
+  thirdPartyCRM: 'Flex'
+}
