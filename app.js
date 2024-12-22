@@ -227,7 +227,7 @@ if (process.argv.includes("--install")) {
             }
 
             function executeTagUI() {
-                fetch("http://localhost:5213/execute-tagUI-script", {
+                fetch("http://localhost:5213/execute-selenium-script", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
